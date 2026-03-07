@@ -11,5 +11,4 @@ On the off chance that anyone is readon this, where I'm inevitably wrong, have m
 [contact me](mailto:nick.holt@btinternet.com) and I'll endeavor to incorporate your feedback.
 
 * 2026
-  * January
-    * [30th - ](./2026/01/30.md) 
+  * [02/01 - Not Viding!](2026/02/01-not-vibing.md) 
