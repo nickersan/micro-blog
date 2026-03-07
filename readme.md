@@ -11,4 +11,5 @@ On the off chance that anyone is readon this, where I'm inevitably wrong, have m
 [contact me](mailto:nick.holt@btinternet.com) and I'll endeavor to incorporate your feedback.
 
 * 2026
-  * [02/01 - Not Viding!](2026/02/01-not-vibing.md) 
+  * [02/01 - Not Viding!](2026/02/01-not-vibing.md)
+  * [03/07 - Do you know what we used to call agentic engineering?](2026/03/02-do-you-know-what-we-used-to-call-agentic-engineering.md)
